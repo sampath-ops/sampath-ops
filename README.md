@@ -9,12 +9,6 @@
 
 <br/>
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sampath-ops&show_icons=true&theme=radical)
-![github stats](https://github-readme-stats.vercel.app/api?username=sampath-ops&show_icons=true&theme=radical)
-
-<br/>
-<br/>  
-
 
 ## My Skill Set  
 
